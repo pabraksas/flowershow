@@ -25,18 +25,18 @@ https://flowershow.app/docs/
 
 ## Use with Obsidian Flowershow plugin
 
-You can use this template together with the [Flowershow Obsidian Plugin](https://github.com/datopian/obsidian-flowershow).
+You can use this template together with the [Flowershow Obsidian Plugin](https://github.com/pabraksas/obsidian-flowershow).
 See the README in the plugin repo for information on how to set it up.
 
 ## Quick clone and deploy
 
 With Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/datopian/flowershow)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/pabraksas/flowershow)
 
 ## Forum
 
-https://github.com/flowershow/flowershow/discussions
+https://github.com/pabraksas/flowershow/discussions
 
 ## Chat
 
